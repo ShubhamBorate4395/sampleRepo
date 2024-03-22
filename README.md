@@ -1,4 +1,5 @@
 # sampleRepo
-just for understanding
+
+just for understanding purpose
 <br>
 Author: Max
